@@ -86,7 +86,6 @@ There are two font rendering engines available. See also `engine` option below.
 
 #### Cons
 
-* Doesn’t work [with some SVG files](https://github.com/fontello/svg2ttf/issues/25).
 * Ligatures aren’t supported.
 
 
